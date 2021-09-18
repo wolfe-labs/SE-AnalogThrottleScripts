@@ -17,6 +17,10 @@ Run MDK Deploy to build the project that interests you, or follow project-specif
 
 Debug script intended for development, not updated.
 
-### [WL Basic Analog Control](./WLBasicAnalogControl/)
+### [ThrustMaster Ferrari Legend Rover Control](./TMFerrariSteeringWheel/) by [Imperator](https://github.com/ImperatorPortfolio)
+
+Rover control using the ThrusteMaster Legend Rover steering wheel.
+
+### [WL Basic Analog Control](./WLBasicAnalogControl/) by [Wolfe](https://github.com/MatheusMK3)
 
 Basic analog control sample script, mostly used for testing and developing the plugin.
