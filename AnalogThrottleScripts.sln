@@ -7,9 +7,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLBasicAnalogControl", "WLB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogThrottleDebugScript", "AnalogThrottleDebugScript\AnalogThrottleDebugScript.csproj", "{0E664EA8-FE12-473F-8822-A5B70CF5446A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMFerrariSteeringWheel", "TMFerrariSteeringWheel\TMFerrariSteeringWheel.csproj", "{0F4087C7-929A-4379-BF97-19C199045925}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AnalogThrottleScriptingAPI", "..\SE-AnalogThrottlePlugin\AnalogThrottleScriptingAPI\AnalogThrottleScriptingAPI.shproj", "{0FAA772F-FFE7-41B7-8CF2-86624FC78CFC}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\SE-AnalogThrottlePlugin\AnalogThrottleScriptingAPI\AnalogThrottleScriptingAPI.projitems*{0e664ea8-fe12-473f-8822-a5b70cf5446a}*SharedItemsImports = 4
+		..\SE-AnalogThrottlePlugin\AnalogThrottleScriptingAPI\AnalogThrottleScriptingAPI.projitems*{0f4087c7-929a-4379-bf97-19c199045925}*SharedItemsImports = 4
+		..\SE-AnalogThrottlePlugin\AnalogThrottleScriptingAPI\AnalogThrottleScriptingAPI.projitems*{0faa772f-ffe7-41b7-8cf2-86624fc78cfc}*SharedItemsImports = 13
 		..\SE-AnalogThrottlePlugin\AnalogThrottleScriptingAPI\AnalogThrottleScriptingAPI.projitems*{fc68b07d-1c67-44b9-83f4-5d9d6c76a756}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +26,8 @@ Global
 		{FC68B07D-1C67-44B9-83F4-5D9D6C76A756}.Debug|x64.Build.0 = Debug|x64
 		{0E664EA8-FE12-473F-8822-A5B70CF5446A}.Debug|x64.ActiveCfg = Debug|x64
 		{0E664EA8-FE12-473F-8822-A5B70CF5446A}.Debug|x64.Build.0 = Debug|x64
+		{0F4087C7-929A-4379-BF97-19C199045925}.Debug|x64.ActiveCfg = Debug|x64
+		{0F4087C7-929A-4379-BF97-19C199045925}.Debug|x64.Build.0 = Debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
